@@ -1,7 +1,8 @@
 import getFlag from '../utils/getFlag'
+import config from '../../config'
 
-const API = 'https://api.football-data.org/v2/'
-const API_KEY = '902b5753945549c29f320b6e2e63907e'
+const API = config.API
+const API_KEY = config.API_KEY
 
 const headers = new Headers()
 headers.append('X-Auth-token', API_KEY)
