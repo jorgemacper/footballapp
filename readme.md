@@ -3,7 +3,7 @@
 This is a simple project created as a practice part of the Single Page Application with Javascript Vanilla by Platzi.
 
 ## App description
-This app just show standings about LaLiga (Spain Football League) using an API.
+This app just shows standings about LaLiga (Spain Football League) using an API.
 
 ## Goal of the project
 Just practice Javascript Vanilla
